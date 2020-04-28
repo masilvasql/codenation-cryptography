@@ -1,0 +1,35 @@
+{
+  "name": "kryptosJulioCesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "caesar-cipher": "^0.1.0",
+    "caesar-cipher-amine": "^1.0.26",
+    "caesar-cipher-lib": "^1.0.0",
+    "caesar-cipher-library-anapaulalaraujo": "^1.0.0",
+    "caesar-encrypt": "0.0.2",
+    "caesar-shift": "^1.0.0",
+    "caesarcipher": "^0.1.1",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "form-data": "^3.0.0",
+    "i": "^0.3.6",
+    "install": "^0.13.0",
+    "js-cipher": "^1.0.5",
+    "multiparty": "^4.2.1",
+    "node-fetch": "^2.6.0",
+    "npm": "^6.14.4",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1"
+  }
+}
