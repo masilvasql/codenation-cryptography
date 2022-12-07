@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "caesar-cipher": "^0.1.0",
     "caesar-cipher-amine": "^1.0.26",
     "caesar-cipher-lib": "^1.0.0",
@@ -20,7 +20,7 @@
     "caesar-shift": "^1.0.0",
     "caesarcipher": "^0.1.1",
     "consign": "^0.1.6",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "fetch": "^1.1.0",
     "form-data": "^3.0.0",
     "i": "^0.3.6",
