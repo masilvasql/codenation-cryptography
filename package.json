@@ -20,7 +20,7 @@
     "caesar-shift": "^1.0.0",
     "caesarcipher": "^0.1.1",
     "consign": "^0.1.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fetch": "^1.1.0",
     "form-data": "^3.0.0",
     "i": "^0.3.6",
